@@ -4,7 +4,6 @@ SET QUOTED_IDENTIFIER ON
 GO
 -- =============================================
 -- Author:		Robert Vignato
--- Create date: 8/31/2012
 -- Description:	Update Account Balance
 -- =============================================
 ALTER PROCEDURE [dbo].[sp_UPDATE_Accounts_Click_SearchResultsPage] -- v03

@@ -4,7 +4,6 @@ SET QUOTED_IDENTIFIER ON
 GO
 -- =============================================
 -- Author:		Robert Vignato
--- Create date: 8/21/2012
 -- Description:	Update Advertiser Account Balance
 -- =============================================
 ALTER PROCEDURE [dbo].[sp_UPDATE_ReduceBalance_Advertiser] -- v02
